@@ -1,3 +1,9 @@
+Team Members: Eswaran Senthilkumar, Josiah Sing, Javier Leong
+Year 2 Computer Engineering Students
+Nanyang Technological University
+Simplify Next Agentic AI Hackathon
+
+
 # KallangFlow
 
 KallangFlow is an agentic crowd-flow simulation and journey recommendation system for events around the Kallang area in Singapore.
