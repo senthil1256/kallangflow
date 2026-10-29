@@ -1,4 +1,4 @@
-Team Members: Eswaran Senthilkumar, Josiah Sing, Javier Leong
+Team Members: Eswaran Senthilkumar, Josiah Sing, Javier Leong\n
 Year 2 Computer Engineering Students
 Nanyang Technological University
 Simplify Next Agentic AI Hackathon
